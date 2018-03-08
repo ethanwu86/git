@@ -7,7 +7,10 @@ git command:
 6. git checkout
 7. git reset --hard HEAD^(or id)
 8. git reflog
+9. pwd
 
 github account:
-wuyusheng86@
+wuyusheng**@
 12345678Wu
+
+git push origin master
