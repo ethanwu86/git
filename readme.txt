@@ -7,3 +7,7 @@ git command:
 6. git checkout
 7. git reset --hard HEAD^(or id)
 8. git reflog
+
+github account:
+wuyusheng86@
+12345678Wu
